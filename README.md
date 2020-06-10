@@ -17,3 +17,5 @@ When you remove this driver package, everything that was selected at the time of
 Help those who have a motherboard with a Realtek audio chip and who want to extract superior audio quality in music, movies, games or other content.
 
 I hope to be able to help all internet users interested in these packages.
+
+This is [**my other repository**](https://github.com/AlanFinotty1995/AAFRealtekMod)
