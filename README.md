@@ -2,7 +2,7 @@
 
 * Features
 
-ALL driver INFs contained in this package are in the [**Universal (DCH)**](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/using-a-universal-inf-file) standard. The legacy audio manager continues to be used, but the packages that will be in this repository will only support Windows 10. More compatibility information below.
+ALL driver INFs contained in this package are in the [**Universal (DCH)**](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/using-a-universal-inf-file) standard. The legacy audio manager will continue to be used temporarily, because in this package, in the future, I will try to deploy the Realtek Audio Console (UWP). The packages that will be in this repository support Windows 10 exclusively. More compatibility information below.
 
 * Compatibility
 
